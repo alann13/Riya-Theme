@@ -3,6 +3,7 @@
 	"version": 3,
 	"settings": {
 		"color": {
+			"defaultPalette": false,
 			"palette": [
 				{
 					"slug": "primary",
@@ -28,6 +29,36 @@
 					"slug": "highlight-secondary",
 					"color": "#20B4E2",
 					"name": "Highlight Secondary"
+				},
+				{
+					"slug": "background-main",
+					"color": "#F9F7FC",
+					"name": "Background Main"
+				},
+				{
+					"slug": "background-light",
+					"color": "#FCFBFD",
+					"name": "Background Light"
+				},
+				{
+					"slug": "background-dark",
+					"color": "#F5F3F9",
+					"name": "Background Dark"
+				},
+				{
+					"slug": "stroke",
+					"color": "#D7D2E0",
+					"name": "Stroke"
+				},
+				{
+					"slug": "stroke-light",
+					"color": "#EBE8EF",
+					"name": "Stroke Light"
+				},
+				{
+					"slug": "hyperlink",
+					"color": "#1B79A7",
+					"name": "Hyperlink"
 				}
 			]
 		},

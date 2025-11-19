@@ -7,4 +7,4 @@
 
 ?>
 
-<p><?= esc_html__("hi there", "this is announcement") ?></p>
+<p><?= esc_html__("Announcement Bar") ?></p>
