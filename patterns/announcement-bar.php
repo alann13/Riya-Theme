@@ -5,6 +5,7 @@
  * Categories: text
  */
 
+declare( strict_types = 1 );
 ?>
 
-<p><?= esc_html__("Announcement Bar") ?></p>
+<p><?= esc_html__("Announcement Bar Pattern") ?></p>
